@@ -17,7 +17,7 @@
  * Do not edit or add to this file if you wish to upgrade Magento to newer
  * versions in the future. If you wish to customize Magento for your
  * needs please refer to http://www.magento.com for more information.
- * 是我
+ *
  * @category    Mage
  * @package     Mage
  * @copyright  Copyright (c) 2006-2019 Magento, Inc. (http://www.magento.com)
